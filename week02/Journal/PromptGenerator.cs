@@ -5,11 +5,11 @@ public class PromptGenerator
 {
     private List<string> _prompts = new List<string>
     {
-        "Who was the most interesting person I interacted with today?",
-        "What was the best part of my day?",
-        "How did I see the hand of the Lord in my life today?",
-        "What was the strongest emotion I felt today?",
-        "If I had one thing I could do over today, what would it be?"
+        "What is something I am grateful for today?",
+        "How did I show love or kindness to someone today?",
+        "What is one thing I could improve for tomorrow?",
+        "Who helped me today, and how?",
+        "What is one thing I want to remember about today?"
     };
 
     private Random _random = new Random();
